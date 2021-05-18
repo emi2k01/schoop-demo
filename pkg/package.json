@@ -1,0 +1,15 @@
+{
+  "name": "schoop",
+  "collaborators": [
+    "Emilio González <emi2k01@gmail.com>"
+  ],
+  "version": "0.1.0",
+  "files": [
+    "schoop_bg.wasm",
+    "schoop.js",
+    "schoop.d.ts"
+  ],
+  "module": "schoop.js",
+  "types": "schoop.d.ts",
+  "sideEffects": false
+}
